@@ -29,11 +29,6 @@
             <artifactId>javassist</artifactId>
             <version>3.20.0-GA</version>
         </dependency>
-        <dependency>
-            <groupId>org.eclipse.swt</groupId>
-            <artifactId>org.eclipse.swt</artifactId>
-            <version>3.5.0.v3550b</version>
-        </dependency>
     </dependencies>
 
     <build>
